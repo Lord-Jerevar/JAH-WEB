@@ -1,0 +1,70 @@
+body {
+	background-image: url("content/red-hexes-background.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+#header {
+	text-align: center;
+	color: orange;
+	border-bottom: 6px double orange;
+}
+
+
+
+//navigation
+.navlinks{
+	list-style-type:none;
+		
+}
+.navlinks li{
+	display: inline;
+	padding: 2px 9%;
+	font-size: 20px
+}
+
+
+#topnavlinks{
+	border-top: 6px double orange;
+	
+}
+
+
+#bottomnavlinks{
+	border-bottom: 6px double orange;
+	
+}
+
+
+#content{
+	padding: 30px;
+	text-align: center;
+}
+
+
+.image{
+	width:47%;
+}
+
+
+.banner{
+	width:100%
+}
+
+
+
+#footer{text-align: center;
+	color: orange;
+	border-top: 6px double orange;
+}
+
+
+a{
+	text-decoration: none;
+	color: orange;
+}
+
+
+a:hover{
+	color: green;
+}
